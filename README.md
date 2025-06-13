@@ -1,7 +1,5 @@
 # Yuno – Plataforma E-Learning Empresarial
 
-Sistema E-learning completo desarrollado con .NET 6 y Clean Architecture, diseñado para ser fácilmente migrable a .NET 7, 8, 9 o 10. 
-
 Este proyecto está orientado a entornos reales de producción, con enfoque en mantenibilidad, escalabilidad y buenas prácticas de ingeniería de software.
 
 ---
