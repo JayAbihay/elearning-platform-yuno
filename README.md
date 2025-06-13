@@ -1,1 +1,1 @@
-# Proyecto-Yuno (Nivel Intermedio): Creación de aplicación ELearning
+# Proyecto 1 (Nivel Intermedio): Yuno ELearning Platform  
